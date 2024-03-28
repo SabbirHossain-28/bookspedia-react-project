@@ -1,0 +1,16 @@
+.Navbar-link>ul>a.active{
+    color: #23BE0A;
+    padding: 10px 24px;
+    /* margin-right: 10px; */
+    border: 2px solid #23BE0A;
+    border-radius: 10px;
+
+}
+
+.Navbar-link>ul>a{
+    font-size:medium;
+    padding: 10px 24px;
+    margin-right: 10px;
+    margin-left: o;
+    color: #131313CC;
+}

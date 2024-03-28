@@ -1,0 +1,81 @@
+[
+      {
+        "bookId": 1,
+        "bookName": "The Dating Playbook for Men",
+        "author": "Andrew Ferebee",
+        "image": "https://i.ibb.co/dfrczYt/pngwing-1-1.png",
+        "review": "A comprehensive guide to navigating the world of dating with confidence and authenticity.",
+        "totalPages": 320,
+        "rating": 4.5,
+        "category": "Relationships",
+        "tags": ["Dating", "Self-Help"],
+        "publisher": "Knowledge for Men",
+        "yearOfPublishing": 2015
+      },
+      {
+        "bookId": 2,
+        "bookName": "Why Do You Hate Money",
+        "author": "Peter Michaelson",
+        "image": "https://i.ibb.co/F8YvSwQ/kindpng-7318921.png",
+        "review": "A thought-provoking exploration of our complex relationship with money and how it affects our lives.",
+        "totalPages": 280,
+        "rating": 4.2,
+        "category": "Personal Finance",
+        "tags": ["Money", "Psychology"],
+        "publisher": "New World Library",
+        "yearOfPublishing": 2020
+      },
+      {
+        "bookId": 3,
+        "bookName": "The Hate U Give",
+        "author": "Angie Thomas",
+        "image": "https://i.ibb.co/HTt5yp0/kindpng-1064993.png",
+        "review": "A powerful and timely novel about race, activism, and identity, told through the eyes of a young black girl.",
+        "totalPages": 464,
+        "rating": 4.7,
+        "category": "Young Adult",
+        "tags": ["Social Issues", "Activism"],
+        "publisher": "Balzer + Bray",
+        "yearOfPublishing": 2017
+      },
+      {
+        "bookId": 4,
+        "bookName": "The Scholarship Monthly Planner",
+        "author": "Mariah C. Burton Nelson",
+        "image": "https://i.ibb.co/tB57CSf/kindpng-4022054-1.png",
+        "review": "A comprehensive planner to help students organize their scholarship applications and deadlines effectively.",
+        "totalPages": 160,
+        "rating": 4.0,
+        "category": "Education",
+        "tags": ["Scholarships", "Organization"],
+        "publisher": "Princeton Review",
+        "yearOfPublishing": 2021
+      },
+      {
+        "bookId": 5,
+        "bookName": "Spine of the Dragon",
+        "author": "Kevin J. Anderson",
+        "image": "https://i.ibb.co/rf0LN49/kindpng-4945926-1.png",
+        "review": "An epic fantasy saga filled with intrigue, magic, and adventure, set in a richly imagined world.",
+        "totalPages": 560,
+        "rating": 4.3,
+        "category": "Fantasy",
+        "tags": ["Epic", "Magic"],
+        "publisher": "Tor Books",
+        "yearOfPublishing": 2019
+      },
+      {
+        "bookId": 6,
+        "bookName": "Loving Jesus More",
+        "author": "Philip Graham Ryken",
+        "image": "https://i.ibb.co/tPMPGd6/kindpng-2193744-1.png",
+        "review": "A heartfelt exploration of deepening one's relationship with Jesus and experiencing His love in everyday life.",
+        "totalPages": 200,
+        "rating": 4.6,
+        "category": "Religion",
+        "tags": ["Christianity", "Spirituality"],
+        "publisher": "Crossway",
+        "yearOfPublishing": 2001
+      }
+]
+  
